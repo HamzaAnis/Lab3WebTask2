@@ -8,6 +8,7 @@ namespace Lab3WebTask2
 {
     class Program
     {
+        //+Jagged Array
         static void Main(string[] args)
         {
             int[][] student = new int[11][];
